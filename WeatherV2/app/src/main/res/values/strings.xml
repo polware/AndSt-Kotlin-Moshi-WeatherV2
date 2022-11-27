@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather V2</string>
+    <string name="please_wait">Por favor espere&#8230;</string>
+    <string name="refresh">Refresh</string>
+</resources>
